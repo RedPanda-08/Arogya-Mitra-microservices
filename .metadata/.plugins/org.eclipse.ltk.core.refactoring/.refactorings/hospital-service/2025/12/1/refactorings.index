@@ -1,0 +1,24 @@
+1767014312242	Rename package 'com.arogyamitra.hospitalservice'
+1767014494702	Rename package 'com.hospitalservice.entities'
+1767014866569	Delete element
+1767014987906	Rename package 'Enums'
+1767018610913	Delete element
+1767018613759	Delete element
+1767018617243	Delete element
+1767018620509	Delete element
+1767018622869	Delete element
+1767018744629	Delete element
+1767018748320	Delete element
+1767018750915	Delete element
+1767018753918	Delete element
+1767018756641	Delete element
+1767018864694	Rename package 'cpm.hospitalservice.service'
+1767022144986	Rename type 'DepartmentDTO'
+1767022419178	Rename type 'TreatmentDTO'
+1767022666055	Rename type 'BedDTO'
+1767023099323	Rename type 'AmbulanceDTO'
+1767025874207	Rename package 'com.example.demo'
+1767029854637	Delete element
+1767030005609	Delete element
+1767030008731	Delete element
+1767032348475	Rename type 'TreatmentOutcome'
